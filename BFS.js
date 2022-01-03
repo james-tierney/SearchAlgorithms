@@ -26,3 +26,4 @@ g.addEdge('C', 'F');
 g.printOurGraph();
 
 g.breadthFirstSearch(g, 'A', 'F');
+g.depthFirstSearch(g, 'A', 'F');
